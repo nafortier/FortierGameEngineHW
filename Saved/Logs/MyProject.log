@@ -1550,3 +1550,323 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.03-22.46.31:423][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.04.03-22.46.31:430][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2025.04.03-22.46.31:490][947]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.04.03-22.50.24:551][167]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.03-22.50.36:321][855]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-22.50.36:362][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Backpack_RGB.T_EpicCharacter_Backpack_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:362][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Backpack_BC.T_EpicCharacter_Backpack_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:362][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Backpack_ARM.T_EpicCharacter_Backpack_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:363][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Bedroll_ARM.T_EpicCharacter_Bedroll_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:363][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Bedroll_BC.T_EpicCharacter_Bedroll_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:363][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Bedroll_RGB.T_EpicCharacter_Bedroll_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:363][855]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Boots_ARM.T_EpicCharacter_Boots_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:477][856]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Boots_RGB.T_EpicCharacter_Boots_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:478][856]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Head_BC.T_EpicCharacter_Head_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:486][856]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Head_E.T_EpicCharacter_Head_E (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:486][856]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Boots_BC.T_EpicCharacter_Boots_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:490][856]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Head_RGB.T_EpicCharacter_Head_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:495][856]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Head_ARM.T_EpicCharacter_Head_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:509][857]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Hood_ARM.T_EpicCharacter_Hood_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:562][858]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Idle.EpicCharacter_Idle
+[2025.04.03-22.50.36:562][858]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Idle.EpicCharacter_Idle
+[2025.04.03-22.50.36:564][858]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_0
+[2025.04.03-22.50.36:568][858]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_0
+[2025.04.03-22.50.36:576][858]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Hood_BC.T_EpicCharacter_Hood_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:578][858]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Skin_ARM.T_EpicCharacter_Skin_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:578][858]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Skin_BC.T_EpicCharacter_Skin_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:583][858]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Hood_RGB.T_EpicCharacter_Hood_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:588][858]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Skin_RGB.T_EpicCharacter_Skin_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:592][858]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_SleevesShorts_ARM.T_EpicCharacter_SleevesShorts_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:601][859]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_SleevesShorts_BC.T_EpicCharacter_SleevesShorts_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:681][861]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Tunic_E.T_EpicCharacter_Tunic_E (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:682][861]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_SleevesShorts_RGB.T_EpicCharacter_SleevesShorts_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:683][861]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Tunic_ARM.T_EpicCharacter_Tunic_ARM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:683][861]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Tunic_RGB.T_EpicCharacter_Tunic_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.36:688][861]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Characters/Character/Texture/T_EpicCharacter_Tunic_BC.T_EpicCharacter_Tunic_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.03-22.50.38:266][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.03-22.50.38:268][954]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.04.03-22.50.38:273][954]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Idle.EpicCharacter_Idle
+[2025.04.03-22.50.38:273][954]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Idle.EpicCharacter_Idle
+[2025.04.03-22.50.38:277][954]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_1
+[2025.04.03-22.50.38:278][954]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_1
+[2025.04.03-22.50.39:291][  3]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.03-22.50.39:291][  3]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.04.03-22.50.51:047][699]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-22.50.51:457][718]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Interact_Loop.EpicCharacter_Interact_Loop
+[2025.04.03-22.50.51:457][718]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Interact_Loop.EpicCharacter_Interact_Loop
+[2025.04.03-22.50.51:457][718]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_2
+[2025.04.03-22.50.51:458][718]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_2
+[2025.04.03-22.50.52:686][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.03-22.50.52:687][791]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2025.04.03-22.50.52:692][791]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Interact_Loop.EpicCharacter_Interact_Loop
+[2025.04.03-22.50.52:694][791]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/LearningKit_Games/Assets/Characters/Character/Animations/epicCharacter_Interact_Loop.EpicCharacter_Interact_Loop
+[2025.04.03-22.50.52:695][791]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_3
+[2025.04.03-22.50.52:696][791]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_3
+[2025.04.03-22.51.28:604][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 988.534729
+[2025.04.03-22.51.29:604][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-22.51.29:605][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 989.201843, Update Interval: 325.714294
+[2025.04.03-22.51.40:017][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.03-22.51.40:054][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainLevel_Auto1
+[2025.04.03-22.51.40:054][248]LogSavePackage: Moving '../../../../../../Users/natha/Documents/Unreal Projects/MyProject/Saved/MainLevel_Auto13A1C4DE341A40CC8B7A294AB7149638C.tmp' to '../../../../../../Users/natha/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/MainLevel_Auto1.umap'
+[2025.04.03-22.51.40:057][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.049
+[2025.04.03-22.51.40:057][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2025.04.03-22.51.58:944][656]Cmd: DUPLICATE
+[2025.04.03-22.51.58:944][656]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.09:688][290]Cmd: DUPLICATE
+[2025.04.03-22.52.09:689][290]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.13:563][516]Cmd: DUPLICATE
+[2025.04.03-22.52.13:563][516]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.16:298][676]Cmd: DUPLICATE
+[2025.04.03-22.52.16:298][676]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.19:182][845]Cmd: DUPLICATE
+[2025.04.03-22.52.19:182][845]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.21:447][977]Cmd: DUPLICATE
+[2025.04.03-22.52.21:447][977]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.27:073][309]Cmd: DUPLICATE
+[2025.04.03-22.52.27:073][309]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.30:896][531]Cmd: TRANSACTION UNDO
+[2025.04.03-22.52.30:897][531]LogEditorTransaction: Undo Move Elements
+[2025.04.03-22.52.36:166][828]Cmd: DUPLICATE
+[2025.04.03-22.52.36:166][828]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.52.48:205][515]Cmd: DUPLICATE
+[2025.04.03-22.52.48:205][515]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.53.04:859][235]LogShaderCompilers: Display: ================================================
+[2025.04.03-22.53.04:859][235]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.03-22.53.04:859][235]LogShaderCompilers: Display: Total job queries 48, among them cache hits 7 (14.58%), DDC hits 33 (68.75%), Duplicates 2 (4.17%)
+[2025.04.03-22.53.04:859][235]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 26 distinct outputs (66.67%)
+[2025.04.03-22.53.04:860][235]LogShaderCompilers: Display: RAM used: 65.79 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.04.03-22.53.04:860][235]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.03-22.53.04:860][235]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.04.03-22.53.04:860][235]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.04.03-22.53.04:860][235]LogShaderCompilers: Display: Average time worker was idle: 0.38 s
+[2025.04.03-22.53.04:860][235]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.04 s
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 1.58 s
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 1.61
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Shader code size: average 6.912 KiB, min 4.73 KiB, max 7.5 KiB
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.35 s
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Total thread time: 3.772 s
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Total thread preprocess time: 0.961 s
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Percentage time preprocessing: 25.48%
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.76 sec, max 0.81 sec, min 0.65 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.50 sec, max 0.54 sec, min 0.44 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 60.07% of total time (compiled    3 times, average 0.76 sec, max 0.81 sec, min 0.65 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.93% of total time (compiled    3 times, average 0.50 sec, max 0.54 sec, min 0.44 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                                FAnisotropyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                                FAnisotropyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: === Material stats ===
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Materials Translated:    133
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Material Translation Only: 0.04 s (29%)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: Material Cache Hits: 17 (13%)
+[2025.04.03-22.53.04:861][235]LogShaderCompilers: Display: ================================================
+[2025.04.03-22.54.21:987][268]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-22.54.21:990][268]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp
+[2025.04.03-22.54.22:007][268]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Architecture/Ramps/Texture/T_Kit_Ramp_BC.T_Kit_Ramp_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.03-22.54.22:009][268]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp) ...
+[2025.04.03-22.54.22:009][268]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/Architecture/Ramps/Texture/T_Kit_Ramp_ARM.T_Kit_Ramp_ARM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.03-22.54.22:165][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.03-22.54.22:165][268]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.04.03-22.54.26:510][435]LogSlate: Window 'SM_Kit_Ramp' being destroyed
+[2025.04.03-22.54.26:590][435]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-22.54.26:590][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-22.54.26:626][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.03-22.54.28:805][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp
+[2025.04.03-22.54.28:805][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp
+[2025.04.03-22.54.28:806][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_59
+[2025.04.03-22.54.29:482][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.03-22.54.29:483][582]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2025.04.03-22.54.29:488][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp
+[2025.04.03-22.54.29:488][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp
+[2025.04.03-22.54.29:489][582]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_60
+[2025.04.03-22.55.08:537][880]Cmd: DUPLICATE
+[2025.04.03-22.55.08:537][880]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: ================================================
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Total job queries 52, among them cache hits 8 (15.38%), DDC hits 33 (63.46%), Duplicates 2 (3.85%)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 28 distinct outputs (66.67%)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: RAM used: 66.33 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Average time worker was idle: 134.74 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Job execution time: average 1.36 s, max 1.95 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 2.04
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Shader code size: average 6.173 KiB, min 3.773 KiB, max 7.5 KiB
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.39 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Total thread time: 7.189 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Total thread preprocess time: 1.034 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Percentage time preprocessing: 14.38%
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.96 sec, max 1.29 sec, min 0.65 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.60 sec, max 0.88 sec, min 0.44 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 66.88% of total time (compiled    5 times, average 0.96 sec, max 1.29 sec, min 0.65 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 33.12% of total time (compiled    4 times, average 0.60 sec, max 0.88 sec, min 0.44 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                                FAnisotropyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                                FAnisotropyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: === Material stats ===
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Materials Translated:    136
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Material Translation Only: 0.04 s (28%)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: Material Cache Hits: 17 (13%)
+[2025.04.03-22.56.04:868][197]LogShaderCompilers: Display: ================================================
+[2025.04.03-22.56.17:084][924]Cmd: DUPLICATE
+[2025.04.03-22.56.17:084][924]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.56.32:051][788]Cmd: DELETE
+[2025.04.03-22.56.32:051][788]Cmd: ACTOR DELETE
+[2025.04.03-22.56.32:058][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.03-22.56.32:071][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.03-22.56.32:073][788]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.04.03-22.56.33:880][893]Cmd: DELETE
+[2025.04.03-22.56.33:880][893]Cmd: ACTOR DELETE
+[2025.04.03-22.56.33:883][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.03-22.56.33:892][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.03-22.56.33:894][893]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.04.03-22.56.50:370][870]LogStreaming: Display: FlushAsyncLoading(348): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-22.56.50:666][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.56.50:666][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.56.50:666][884]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_65
+[2025.04.03-22.56.51:349][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.03-22.56.51:353][924]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.04.03-22.56.51:359][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.56.51:360][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.56.51:361][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_66
+[2025.04.03-22.56.54:028][ 79]Cmd: DUPLICATE
+[2025.04.03-22.56.54:028][ 79]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.56.56:658][223]Cmd: DUPLICATE
+[2025.04.03-22.56.56:658][223]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.57.05:549][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1325.478760
+[2025.04.03-22.57.06:549][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-22.57.06:549][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1326.146729, Update Interval: 350.020447
+[2025.04.03-22.57.29:836][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.29:836][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.29:836][730]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_69
+[2025.04.03-22.57.30:363][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.03-22.57.30:365][761]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2025.04.03-22.57.30:371][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.30:371][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.30:371][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_70
+[2025.04.03-22.57.31:148][804]Cmd: DUPLICATE
+[2025.04.03-22.57.31:148][804]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.57.32:545][883]Cmd: DUPLICATE
+[2025.04.03-22.57.32:545][883]Cmd: ACTOR DUPLICATE
+[2025.04.03-22.57.40:507][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.40:507][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.40:507][345]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_73
+[2025.04.03-22.57.42:406][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.03-22.57.42:408][458]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.04.03-22.57.42:423][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.42:423][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02
+[2025.04.03-22.57.42:424][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Grass_Dk_02.SM_Grass_Dk_02 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_74
+[2025.04.03-22.57.43:386][512]Cmd: DELETE
+[2025.04.03-22.57.43:386][512]Cmd: ACTOR DELETE
+[2025.04.03-22.57.43:390][512]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.03-22.57.43:400][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.03-22.57.43:402][512]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.04.03-22.59.36:609][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.03-22.59.36:751][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-22.59.36:831][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/natha/Documents/Unreal Projects/MyProject/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-22.59.36:852][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.03-22.59.36:879][670]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2025.04.03-22.59.36:880][670]LogSavePackage: Moving '../../../../../../Users/natha/Documents/Unreal Projects/MyProject/Saved/MainLevel2064A3944422A89D970FBFA9484D1469.tmp' to '../../../../../../Users/natha/Documents/Unreal Projects/MyProject/Content/MainLevel.umap'
+[2025.04.03-22.59.36:891][670]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.04.03-22.59.36:903][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.091 ms
+[2025.04.03-22.59.36:981][670]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-22.59.36:981][670]LogContentValidation: Enabled validators:
+[2025.04.03-22.59.36:981][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-22.59.36:981][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-22.59.36:981][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-22.59.36:981][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-22.59.36:981][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-22.59.36:981][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-22.59.36:981][670]AssetCheck: /Game/MainLevel Validating asset
+[2025.04.03-22.59.41:914][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.41:915][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/natha/Documents/Unreal Projects/MyProject'
+[2025.04.03-22.59.44:586][950]LogSlate: Window 'Submit Files' being destroyed
+[2025.04.03-22.59.45:490][950]LogSourceControl: commit successful: [main 3c6a5a4] sda
+[2025.04.03-22.59.45:594][950]SourceControl: [main 3c6a5a4] sda
+[2025.04.03-22.59.45:594][950]SourceControl:  2 files changed, 4 insertions(+)
+[2025.04.03-22.59.45:594][950]SourceControl:  create mode 100644 Config/DefaultEditor.ini
+[2025.04.03-22.59.45:643][950]SourceControl: Commited [main 3c6a5a4] sda.
