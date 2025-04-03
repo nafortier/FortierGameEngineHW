@@ -12528,3 +12528,167 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.03-21.24.16:482][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2495.116699
 [2025.04.03-21.24.17:816][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.03-21.24.17:816][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2496.116211, Update Interval: 326.935638
+[2025.04.03-21.30.27:758][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2866.390381
+[2025.04.03-21.30.28:759][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-21.30.28:759][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2867.056641, Update Interval: 331.196625
+[2025.04.03-21.31.24:032][458]Cmd: DELETE
+[2025.04.03-21.31.24:033][458]Cmd: ACTOR DELETE
+[2025.04.03-21.31.24:107][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.03-21.31.24:265][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2025.04.03-21.31.24:279][458]LogEditorActor: Deleted 1 Actors (0.222 secs)
+[2025.04.03-21.31.31:841][771]Cmd: EDIT COPY
+[2025.04.03-21.31.32:911][818]Cmd: EDIT PASTE
+[2025.04.03-21.32.00:734][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.04.03-21.32.00:743][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-21.32.00:839][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/natha/Documents/Unreal Projects/Learning/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-21.32.00:889][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.03-21.32.00:950][ 82]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2025.04.03-21.32.00:951][ 82]LogSavePackage: Moving '../../../../../../Users/natha/Documents/Unreal Projects/Learning/Saved/MainLevel01E741B543E1A016928742AD67FBEEE2.tmp' to '../../../../../../Users/natha/Documents/Unreal Projects/Learning/Content/MainLevel.umap'
+[2025.04.03-21.32.00:979][ 82]LogFileHelpers: Saving map 'MainLevel' took 0.145
+[2025.04.03-21.32.00:998][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.575 ms (total: 502.840 ms)
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: Enabled validators:
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-21.32.01:092][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-21.32.01:094][ 82]AssetCheck: /Game/MainLevel Validating asset
+[2025.04.03-21.36.32:227][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3230.859863
+[2025.04.03-21.36.33:226][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-21.36.33:226][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3231.525391, Update Interval: 314.901581
+[2025.04.03-21.38.17:770][907]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.SM_FloatingIsland_L
+[2025.04.03-21.38.17:771][907]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.SM_FloatingIsland_L
+[2025.04.03-21.38.17:772][907]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.SM_FloatingIsland_L as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_4
+[2025.04.03-21.38.18:637][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.03-21.38.18:640][936]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.04.03-21.38.18:647][936]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.SM_FloatingIsland_L
+[2025.04.03-21.38.18:647][936]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.SM_FloatingIsland_L
+[2025.04.03-21.38.18:649][936]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.SM_FloatingIsland_L as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_25
+[2025.04.03-21.38.55:395][751]Cmd: DUPLICATE
+[2025.04.03-21.38.55:395][751]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.39.03:706][198]Cmd: TRANSACTION UNDO
+[2025.04.03-21.39.03:707][198]LogEditorTransaction: Undo Set Rotation
+[2025.04.03-21.39.09:132][493]Cmd: TRANSACTION UNDO
+[2025.04.03-21.39.09:132][493]LogEditorTransaction: Undo Set Rotation
+[2025.04.03-21.39.32:717][298]Cmd: DUPLICATE
+[2025.04.03-21.39.32:717][298]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.39.46:240][ 24]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-21.39.46:269][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-21.39.46:277][ 24]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2025.04.03-21.39.46:334][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056593s)
+[2025.04.03-21.39.46:334][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.057115s)
+[2025.04.03-21.39.46:360][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.03-21.39.46:367][ 24]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.04.03-21.39.46:414][ 24]LogPlayLevel: PIE: World Init took: (0.047378s)
+[2025.04.03-21.39.46:417][ 24]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-21.39.46:420][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-21.39.46:420][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-21.39.46:422][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-21.39.46:422][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-21.39.46:422][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-21.39.46:429][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-21.39.46:535][ 24]LogAudioMixer: Display: Using Audio Hardware Device Headphone (2- Realtek(R) Audio)
+[2025.04.03-21.39.46:540][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-21.39.46:540][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-21.39.46:541][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-21.39.46:545][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.03-21.39.46:545][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.04.03-21.39.46:548][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.03-21.39.46:548][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.03-21.39.46:548][ 24]LogInit: FAudioDevice initialized with ID 5.
+[2025.04.03-21.39.46:549][ 24]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2025.04.03-21.39.46:549][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.03-21.39.46:577][ 24]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.03-21.39.46:594][ 24]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.04.03-17.39.46
+[2025.04.03-21.39.46:604][ 24]LogWorld: Bringing up level for play took: 0.024401
+[2025.04.03-21.39.46:618][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.04.03-21.39.46:737][ 24]PIE: Server logged in
+[2025.04.03-21.39.46:738][ 24]PIE: Play in editor total start time 0.482 seconds.
+[2025.04.03-21.40.08:852][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-21.40.08:852][892]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2025.04.03-21.40.08:858][892]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-21.40.08:867][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-21.40.08:889][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-21.40.08:896][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-21.40.08:926][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-21.40.08:928][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.03-21.40.08:932][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.03-21.40.08:936][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.03-21.40.08:979][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.04.03-21.40.09:080][893]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.04.03-21.40.50:048][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Clover_03.SM_Clover_03
+[2025.04.03-21.40.50:048][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Clover_03.SM_Clover_03
+[2025.04.03-21.40.50:048][767]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Clover_03.SM_Clover_03 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_36
+[2025.04.03-21.40.51:120][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.04.03-21.40.51:123][817]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.04.03-21.40.51:131][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Clover_03.SM_Clover_03
+[2025.04.03-21.40.51:131][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Clover_03.SM_Clover_03
+[2025.04.03-21.40.51:133][817]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Clover_03.SM_Clover_03 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_37
+[2025.04.03-21.40.55:336][  9]Cmd: DUPLICATE
+[2025.04.03-21.40.55:337][  9]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.01:803][326]Cmd: DUPLICATE
+[2025.04.03-21.41.01:803][326]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.03:644][424]Cmd: DUPLICATE
+[2025.04.03-21.41.03:644][424]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.05:474][521]Cmd: DUPLICATE
+[2025.04.03-21.41.05:474][521]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.06:948][597]Cmd: DUPLICATE
+[2025.04.03-21.41.06:948][597]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.08:764][694]Cmd: DUPLICATE
+[2025.04.03-21.41.08:765][694]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.15:769][ 88]Cmd: TRANSACTION UNDO
+[2025.04.03-21.41.15:769][ 88]LogEditorTransaction: Undo Set Rotation
+[2025.04.03-21.41.18:113][205]Cmd: TRANSACTION UNDO
+[2025.04.03-21.41.18:113][205]LogEditorTransaction: Undo Set Rotation
+[2025.04.03-21.41.21:455][390]Cmd: DUPLICATE
+[2025.04.03-21.41.21:455][390]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.46:329][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.SM_Flower_Daisy_01
+[2025.04.03-21.41.46:329][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.SM_Flower_Daisy_01
+[2025.04.03-21.41.46:329][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.SM_Flower_Daisy_01 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_45
+[2025.04.03-21.41.47:499][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.03-21.41.47:504][729]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.04.03-21.41.47:512][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.SM_Flower_Daisy_01
+[2025.04.03-21.41.47:512][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.SM_Flower_Daisy_01
+[2025.04.03-21.41.47:514][729]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Foliage/SM_Flower_Daisy_01.SM_Flower_Daisy_01 as actor: StaticMeshActor /Game/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_46
+[2025.04.03-21.41.48:736][783]Cmd: DUPLICATE
+[2025.04.03-21.41.48:736][783]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.51:329][903]Cmd: DUPLICATE
+[2025.04.03-21.41.51:329][903]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.53:125][980]Cmd: DUPLICATE
+[2025.04.03-21.41.53:125][980]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.55:153][ 73]Cmd: DUPLICATE
+[2025.04.03-21.41.55:153][ 73]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.57:230][179]Cmd: DUPLICATE
+[2025.04.03-21.41.57:230][179]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.41.59:397][292]Cmd: DUPLICATE
+[2025.04.03-21.41.59:397][292]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.42.00:856][364]Cmd: DUPLICATE
+[2025.04.03-21.42.00:856][364]Cmd: ACTOR DUPLICATE
+[2025.04.03-21.42.36:631][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3595.269043
+[2025.04.03-21.42.37:630][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-21.42.37:630][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3595.936768, Update Interval: 338.766449
+[2025.04.03-21.42.51:740][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-21.42.51:865][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/natha/Documents/Unreal Projects/Learning/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-21.42.51:915][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.04.03-21.42.51:961][118]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2025.04.03-21.42.51:962][118]LogSavePackage: Moving '../../../../../../Users/natha/Documents/Unreal Projects/Learning/Saved/MainLevel36A1DFB845A5CA95A022569A8E87D3B1.tmp' to '../../../../../../Users/natha/Documents/Unreal Projects/Learning/Content/MainLevel.umap'
+[2025.04.03-21.42.51:974][118]LogFileHelpers: Saving map 'MainLevel' took 0.110
+[2025.04.03-21.42.51:988][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.751 ms (total: 750.591 ms)
+[2025.04.03-21.42.52:108][118]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-21.42.52:108][118]LogContentValidation: Enabled validators:
+[2025.04.03-21.42.52:108][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-21.42.52:108][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-21.42.52:111][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-21.42.52:111][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-21.42.52:111][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-21.42.52:111][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-21.42.52:111][118]AssetCheck: /Game/MainLevel Validating asset
+[2025.04.03-21.42.54:558][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
